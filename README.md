@@ -23,7 +23,7 @@ Feel free to explore the projects by navigating to the desired folder and readin
 
 I'm always eager to connect with fellow testers and software professionals. If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me:
 
-- LinkedIn: [https://www.linkedin.com/in/cainhevia/]
+- LinkedIn: [in/cainhevia](https://www.linkedin.com/in/cainhevia/)
 
 Please consider giving this repository a star and following me on GitHub for more exciting projects and updates! ⭐️
 
