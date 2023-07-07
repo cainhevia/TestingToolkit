@@ -1,3 +1,5 @@
 .vs/
 TestingToolkit/.vs
 node_modules
+bin
+obj
